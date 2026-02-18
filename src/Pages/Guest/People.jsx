@@ -1,5 +1,5 @@
  import React from "react";
- import image1 from "../../assets/images/emily.jpeg"
+ import image1 from "../../assets/images/Emily.jpeg"
  import image2 from "../../assets/images/thompson.jpeg"
  import image3 from "../../assets/images/daniel.jpeg"
  import image4 from "../../assets/images/michael.jpeg"
@@ -10,6 +10,7 @@
  import image9 from "../../assets/images/Bill.jpeg"
 
 const people = [
+  
   {
     name: "Thomas Thompson",
     role: "Lead Architect",
